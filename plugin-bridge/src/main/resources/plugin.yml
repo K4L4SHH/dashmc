@@ -1,0 +1,6 @@
+name: PanelBridge
+version: 1.0.0
+main: fr.panel.bridge.PanelBridgePlugin
+api-version: '1.21'
+author: Toi
+description: Passerelle HTTP entre le serveur Paper et le dashboard web du panel.

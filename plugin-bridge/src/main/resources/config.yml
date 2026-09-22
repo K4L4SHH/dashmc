@@ -1,0 +1,12 @@
+# Port sur lequel le plugin ecoute les requetes du dashboard.
+# Doit correspondre a un port ouvert/expose cote AstroHost.
+port: 8090
+
+# Genere automatiquement au premier lancement si laisse a CHANGE_ME.
+# A recopier dans la config du dashboard Node (PANEL_TOKEN).
+token: CHANGE_ME
+
+motd:
+  line1: "&aMon Serveur Minecraft"
+  line2: "&7Gere depuis le panel"
+  enabled: true
